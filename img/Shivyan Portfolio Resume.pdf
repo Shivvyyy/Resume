@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<!-- saved from url=(0037)file:///C:/wamp/www/resume/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <link rel="stylesheet" href="./Shivyan Portfolio Resume_files/bootstrap.min.css">
+  <script src="./Shivyan Portfolio Resume_files/jquery.min.js.download"></script>
+  <script src="./Shivyan Portfolio Resume_files/bootstrap.min.js.download"></script>
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+  <title>Shivyan Portfolio Resume</title>
+
+  <!-- Bootstrap core CSS -->
+
+
+  <!-- Custom styles for this template -->
+  <link href="./Shivyan Portfolio Resume_files/style.css" rel="stylesheet">
+</head>
+
+<body>
+  <section>
+    <div class="container container-main">
+      <img src="./Shivyan Portfolio Resume_files/person.jpg" class="profile-img" style="border-radius: 10px;">
+      <header>
+        <h1>Hello,<br>My name is <strong>Mohd Shivyan </strong> and I am a web developer</h1>
+      </header>
+      <div>
+       <img src="./Shivyan Portfolio Resume_files/line.jpg" class="line">
+     </div>
+     <div class="row">
+      <div class="col-md-7">
+       <h2># About Me</h2>
+       <p style="font-size: 21px;">I am an experienced and energetic full stack web developer with around 4 years of personal and professional experience in web development alongside with competitive programming, which provided me with an exposure to a tech industry and simultaneously has also increased my problem-solving and communication skills(especially with clients).I am a techie artist who really wants to make a difference in tech with his out of box thinking. Right now looking for looking for a job where I can completely showcase my skils.My future goal is to interconnect human brain with technology to a much higher level. According to my colleagues, my brain works in a too much different way that mostly yield a unique solution that no can easily thinks.</p> 
+     </div>
+
+     <div class="col-md-5"><h2>#Contact Info </h2>
+       <ul class="Contact Info">
+         <li><img src="./Shivyan Portfolio Resume_files/phone.jpg" width="50" height="50">91-7017585022</li>
+         <li><img src="./Shivyan Portfolio Resume_files/mail.jpg" width="50" height="50">  smarty.shibyan@gmail.com</li>
+         <li><img src="./Shivyan Portfolio Resume_files/facebook.png" width="50" height="50">Github <span>https://github.com/Shivvyyy</span></li>
+         <li><img src="./Shivyan Portfolio Resume_files/twitter.png" width="50" height="50">Freelancer <span>https://www.freelancer.com/u/Shivyan</span></li>
+       </ul>
+     </div>
+   </div>
+   <div class="row ">
+     <div class="col-md-7">
+       <h2># Education &amp; Experience</h2>
+       <div class="media" style="padding: 20px;">
+         <div class="media-left">
+           August 2016-January 2017
+         </div>
+         <div class="media-body">
+           <h4 class="media-heading">
+             CodeYeti - Mobile &amp; Web App Development Company 
+           </h4>
+           <p>Build two industry level web projects there and worked solely on the web programming part of those projects.Learned many web technoligies by being in a team of 60-70 smart programmers.Mainly populated data using REST API approach and used many third party API's there.</p>
+         </div>
+       </div>
+       <div class="media" style="padding: 20px;">
+         <div class="media-left">
+           2013-2017
+         </div>
+         <div class="media-body">
+           <h4 class="media-heading">
+            Student Print Media Newspaper Company
+          </h4>
+          <p>Working as a freelancer for their every technical problem from web development to hardware problems.Learnt on-time task completion by being a virtual technical head of this company since a long time.</p>
+        </div>
+      </div>
+      <div class="media" style="padding: 20px;">
+       <div class="media-left">
+         2013-2016
+       </div>
+       <div class="media-body">
+         <h4 class="media-heading">
+           Dr MPS College Of Business Studies, Agra
+         </h4>
+         <p>Completed BCA(Bachelor Of Computer Application alongside with PGDMA(Post Graduated Diploma In Management Application) with around 70% marks. Made many businees startegy presentations and coordinated many tech events in the 3 years of college. Also many times scored highest in some subjects.</p>
+       </div>
+     </div>
+     <div class="media" style="padding: 20px;">
+       <div class="media-left">
+         2016-2017
+       </div>
+       <div class="media-body">
+         <h4 class="media-heading">
+          S.R.K College Of Computer Science
+        </h4>
+        <p>Have done PGDCP(Post Graduated Diploma In Computer Application) which enriched my deep understanding of computer programming by unravelling the logic behind every programming syntax and problem.</p>
+
+      </div>
+    </div>
+    <div class="media" style="padding: 20px;">
+     <div class="media-left">
+     2017
+     </div>
+     <div class="media-body">
+       <h4 class="media-heading">
+        Zainil Unani Natural Drugs
+      </h4>
+      <p>Have become a virtual CTO for this company and solely buildiing every aspect of their ecommerce website.</p>
+    </div>
+  </div>
+  <div class="media" style="padding: 20px;">
+   <div class="media-left">
+    2012
+  </div>
+  <div class="media-body">
+   <h4 class="media-heading">
+    St. Johns convent School
+  </h4>
+  <p>Completed my 12th from a christian School</p>
+</div>
+</div>
+</div>
+<div class="col-md-5">
+  <h2># Languages and Platforms Skills</h2>
+  <div class="progress">
+    <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+    PHP</div>
+  </div>
+  <div class="progress">
+    <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
+    Javascript</div>
+  </div>
+  <div class="progress">
+    <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%">
+    BOOTSTRAP/CSS</div>
+  </div>
+  <div class="progress">
+    <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width:60%">
+    MySql</div>
+  </div>
+  <div class="progress">
+    <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+    Third Party API's</div>
+  </div>
+  <div class="progress">
+    <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width:75%">
+    Laravel</div>
+  </div>
+  <div class="progress">
+    <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width:60%">
+    Git</div>
+  </div>
+  <div class="progress">
+    <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width:75%">
+    JSON</div>
+  </div>
+  <div class="progress">
+    <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:50%">
+    Node JS</div>
+  </div>
+  <div class="progress">
+    <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width:60%">
+    SASS/LESS</div>
+  </div>
+  <div class="progress">
+    <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+    Wordpress</div>
+  </div>
+
+  <div class="bs-callout bs-callout-danger">
+    <h4>Key Expertise</h4>
+    <ul class="list-group">
+      <li class="list-group-item"><h3>Projects:</h3>Shoutbox, Admin panels, CMS templates,3 live Ecommerce projects with vendor and seller, Vampire Attack(A networking project), CSS animation projects, Leave Management Project(College Project), blogging engine using laravel and many other Javascript and Jquery projects.</li>
+      <li class="list-group-item"><h3>Knowledge:</h3>Web scrapping,Less,Sass,Git,Bootstrap,CSS animations,Web scrapping,Javascript/Jquery animations,OOPS,MvC's framework,client dealing,3rd party API's like google maps,facebook oauth etc,node js,JSON,Rest API'S,Backend and frontend programming,CSS flexbox,parallax effect,optimized coding,postman etc</li>
+    </ul>
+  </div>
+
+</div>
+</div>
+<div class="row">
+  <div class="col-md-7 ">
+    <h2># Achievements</h2>
+    <div class="alert alert-success" role="alert">
+      <i class="glyphicon glyphicon-ok"></i><strong>Solved many problems on hackerrank and hackerearth</strong>
+    </div>
+    <div class="alert alert-info" role="alert">
+      <i class="glyphicon glyphicon-ok"></i><strong>Once completed whole ecommerce website within 3 days because of client requirment</strong>
+    </div>
+    <div class="alert alert-success" role="alert">
+      <i class="glyphicon glyphicon-ok"></i><strong>Coordinated many tech competions and was praised for my creativity that I brought in those events</strong>
+    </div>
+    <div class="alert alert-info" role="alert">
+      <i class="glyphicon glyphicon-ok"></i><strong>Scored 7 bands in IELTS Academic</strong>
+    </div>
+    <div class="alert alert-success" role="alert">
+      <i class="glyphicon glyphicon-ok"></i><strong>Won a coding competion</strong>
+    </div>
+   <!--  <div class="alert alert-info" role="alert">
+      <i class="glyphicon glyphicon-ok"></i><strong> 3rd party api's using expert</strong>
+    </div> -->
+  </div>
+  <div class="col-md-5">
+    <h2># Recent Projects</h2>
+    <ul class="work-list">
+      <li><img src="./Shivyan Portfolio Resume_files/orento.jpg" width="300" height="200"></li>
+      <li><img src="./Shivyan Portfolio Resume_files/unani.jpg" width="300" height="200"></li>
+      <li><img src="./Shivyan Portfolio Resume_files/laravel.png" width="300" height="200"></li>
+      <!-- <li><img src="img/project4.png" width="300" height="200"></li> -->
+    </ul>
+  </div>
+</div>
+</div>
+</section>
+<footer>
+  <div class="container">
+    <p>Copyright © 2017 - Shivyan , All Rights Reserved</p>
+  </div>
+</footer>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="./Shivyan Portfolio Resume_files/jquery.min.js(1).download"></script>
+    <script src="./Shivyan Portfolio Resume_files/bootstrap.js.download"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+  
+  </body></html>
